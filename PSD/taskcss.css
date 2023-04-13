@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.alcenter{
+    align-items: center;
+}
+.conteiner{
+    width: 1345px;
+    margin: 0 auto;
+}
+.menu{
+    line-height: 100px;
+}
+.jcs{
+    justify-content: space-between;
+}
+.flex{
+    display: flex;
+}
+.logo img{
+    vertical-align: middle;
+    padding: 0 10px 0 0;
+    width: 70%;
+}
+.option ul li{
+    display: inline-block;
+    text-align: center;
+}
+.option ul li a{
+    text-decoration: none;
+    font-size: 25px;
+    color: #43b1b4;
+    margin: 0 20px 0 40px;
+}
+.text h1{
+    color: #43b1b4;
+    font-size: 93px;
+    padding: 20px 0 20px 40px;
+}
+.text h2{
+    color: #4d4d4d;
+    font-size: 51px;
+    padding: 0 0 20px 40px;
+}
+.text p{
+    font-size: 24px;
+    width: 600px;
+    color: #ffffff;
+    padding: 55px 0 35px 40px;
+}
+.text button{
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color:aqua;
+    font-weight: bold;
+    font-size: 18px;
+}
+.morebutton{
+    padding: 20px 0 0 40px;
+}
+.dots{
+    padding: 20px 0 0 40px;
+    font-size: 50px;
+    color: aquamarine;
+}
+.backcolor{
+    background-color: #43b1b4;
+}
+.post img{
+    position: absolute;
+    height: 100px;
+    z-index: -1;
+}
+.ab{
+    position: absolute;
+}
+.rel{
+    position: relative;
+}
+.img{
+    width: 44%;
+    height: 70%;
+    top: 110px;
+    right: 0px;
+}
+.img2{
+    width: 30%;
+    border-radius: 50%;
+    right: 150px;
+    top: 135px;
+}
